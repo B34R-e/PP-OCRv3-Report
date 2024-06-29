@@ -14,11 +14,11 @@ Paper:
 
 #### Result:
 
-> <i>Time using: 8.1408 seconds</i>
-> ![ct_inference_result.jpg](imgs/ct_inference_result.jpg)
+<i>Time using: 8.1408 seconds</i>
+![ct_inference_result.jpg](imgs/ct_inference_result.jpg)
 
-> <i>Time using: 6.2326 seconds</i>
-> ![ct_inference_result.jpg](imgs/ct_inference_result_vi.jpg)
+<i>Time using: 6.2326 seconds</i>
+![ct_inference_result.jpg](imgs/ct_inference_result_vi.jpg)
 
 ---
 
@@ -32,11 +32,11 @@ Paper:
 
 #### Result:
 
-> <i>Time using: 6.8406 </i>
-> ![db_inference_result.jpg](imgs/db_inference_result.jpg)
+<i>Time using: 6.8406 </i>
+![db_inference_result.jpg](imgs/db_inference_result.jpg)
 
-> <i>Time using: 5.4410 </i>
-> ![db_inference_result.jpg](imgs/db_inference_result_vi.jpg)
+<i>Time using: 5.4410 </i>
+![db_inference_result.jpg](imgs/db_inference_result_vi.jpg)
 
 ---
 
@@ -48,11 +48,11 @@ Paper:
 
 #### Result:
 
-> <i>Time using: 7.4379 </i>
-> ![east_inference_result.jpg](imgs/east_inference_result.jpg)
+<i>Time using: 7.4379 </i>
+![east_inference_result.jpg](imgs/east_inference_result.jpg)
 
-> <i>Time using: 6.6536 </i>
-> ![east_inference_result.jpg](imgs/east_inference_result_vi.jpg)
+<i>Time using: 6.6536 </i>
+![east_inference_result.jpg](imgs/east_inference_result_vi.jpg)
 
 ## FCENet
 
@@ -62,11 +62,11 @@ Paper:
 
 #### Result:
 
-> <i>Time using: 12.0690 </i>
-> ![fcenet_inference_result.jpg](imgs/fcenet_inference_result.jpg)
+<i>Time using: 12.0690 </i>
+![fcenet_inference_result.jpg](imgs/fcenet_inference_result.jpg)
 
-> <i>Time using: 12.5654 </i>
-> ![fcenet_inference_result.jpg](imgs/fcenet_inference_result_vi.jpg)
+<i>Time using: 12.5654 </i>
+![fcenet_inference_result.jpg](imgs/fcenet_inference_result_vi.jpg)
 
 ## PSENet
 
@@ -76,7 +76,8 @@ Paper:
 
 #### Result:
 
-> <i>Time using: 11.3555 </i>
-> ![fcenet_inference_result.jpg](imgs/psenet_inference_result.jpg)
+<i>Time using: 11.3555 </i>
+![fcenet_inference_result.jpg](imgs/psenet_inference_result.jpg)
 
-> <i>Time using: 8.7616 </i> > ![fcenet_inference_result.jpg](imgs/psenet_inference_result_vi.jpg)
+<i>Time using: 8.7616 </i>
+![fcenet_inference_result.jpg](imgs/psenet_inference_result_vi.jpg)
