@@ -14,8 +14,9 @@ Paper:
 
 #### Result:
 
-![ct_inference_result.jpg](imgs/ct_inference_result.jpg)
-![ct_inference_result.jpg](imgs/ct_inference_result_vi.jpg)
+> <i>Time using: 8.140819549560547 seconds</i>![ct_inference_result.jpg](imgs/ct_inference_result.jpg)
+
+> <i>Time using: 6.2326226234436035 seconds</i> ![ct_inference_result.jpg](imgs/ct_inference_result_vi.jpg)
 
 ---
 
@@ -29,8 +30,9 @@ Paper:
 
 #### Result:
 
-![db_inference_result.jpg](imgs/db_inference_result.jpg)
-![db_inference_result.jpg](imgs/db_inference_result_vi.jpg)
+> <i>Time using: 6.840652227401733 </i>![db_inference_result.jpg](imgs/db_inference_result.jpg)
+
+> <i>Time using: 5.441012859344482 </i>![db_inference_result.jpg](imgs/db_inference_result_vi.jpg)
 
 ---
 
@@ -42,8 +44,9 @@ Paper:
 
 #### Result:
 
-![east_inference_result.jpg](imgs/east_inference_result.jpg)
-![east_inference_result.jpg](imgs/east_inference_result_vi.jpg)
+> <i>Time using: 7.437951564788818 </i>![east_inference_result.jpg](imgs/east_inference_result.jpg)
+
+> <i>Time using: 6.65368127822876 </i>![east_inference_result.jpg](imgs/east_inference_result_vi.jpg)
 
 ## FCENet
 
@@ -53,8 +56,9 @@ Paper:
 
 #### Result:
 
-![fcenet_inference_result.jpg](imgs/fcenet_inference_result.jpg)
-![fcenet_inference_result.jpg](imgs/fcenet_inference_result_vi.jpg)
+> <i>Time using: 12.069036960601807 </i>![fcenet_inference_result.jpg](imgs/fcenet_inference_result.jpg)
+
+> <i>Time using: 12.565463066101074 </i>![fcenet_inference_result.jpg](imgs/fcenet_inference_result_vi.jpg)
 
 ## PSENet
 
@@ -64,5 +68,6 @@ Paper:
 
 #### Result:
 
-![fcenet_inference_result.jpg](imgs/psenet_inference_result.jpg)
-![fcenet_inference_result.jpg](imgs/psenet_inference_result_vi.jpg)
+> <i>Time using: 11.355518817901611 </i>![fcenet_inference_result.jpg](imgs/psenet_inference_result.jpg)
+
+> <i>Time using: 8.76164197921753 </i>![fcenet_inference_result.jpg](imgs/psenet_inference_result_vi.jpg)
