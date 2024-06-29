@@ -15,6 +15,7 @@ Paper:
 #### Result:
 
 ![ct_inference_result.jpg](imgs/ct_inference_result.jpg)
+![ct_inference_result.jpg](imgs/ct_inference_result_vi.jpg)
 
 ---
 
@@ -29,6 +30,7 @@ Paper:
 #### Result:
 
 ![db_inference_result.jpg](imgs/db_inference_result.jpg)
+![db_inference_result.jpg](imgs/db_inference_result_vi.jpg)
 
 ---
 
@@ -41,6 +43,7 @@ Paper:
 #### Result:
 
 ![east_inference_result.jpg](imgs/east_inference_result.jpg)
+![east_inference_result.jpg](imgs/east_inference_result_vi.jpg)
 
 ## FCENet
 
@@ -51,6 +54,7 @@ Paper:
 #### Result:
 
 ![fcenet_inference_result.jpg](imgs/fcenet_inference_result.jpg)
+![fcenet_inference_result.jpg](imgs/fcenet_inference_result_vi.jpg)
 
 ## PSENet
 
@@ -61,3 +65,4 @@ Paper:
 #### Result:
 
 ![fcenet_inference_result.jpg](imgs/psenet_inference_result.jpg)
+![fcenet_inference_result.jpg](imgs/psenet_inference_result_vi.jpg)
